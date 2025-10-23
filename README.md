@@ -27,23 +27,23 @@
 
 ## 📊 Моя статистика
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bolk87&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bolk87&layout=compact&theme=radical)
 
 ## 🎯 Мои ключевые проекты
 
-### 🚀 [Тестовый фреймворк](https://github.com/ваш-username/ваш-репозиторий)
-Автоматизированный фреймворк для UI и API тестирования
-- **Java** + **Selenide** + **Rest Assured**
+### 🚀 [Тестовый фреймворк](https://github.com/ваш-username/ваш-репозиторий](https://github.com/bolk87/SelenideTestProject)
+Автоматизированный фреймворк для UI тестирования
+- **Java** + **Selenide** + **JUnit5**
 - **Allure Report** для отчетности
 - **GitHub Actions** CI/CD
 
-### 🔧 [API Testing Framework](https://github.com/ваш-username/api-tests)
+### 🔧 [API Testing Framework](https://github.com/ваш-username/api-tests](https://github.com/bolk87/AssetrionsModule3)
 Фреймворк для автоматизации API тестирования
 - **Rest Assured** + **JUnit 5**
 - **JSON Schema** валидация
-- **Data-Driven** тестирование
+- **Allure Report** для отчетности
 
 ## 📫 Как со мной связаться
 
@@ -53,6 +53,6 @@
 
 ## 💡 Интересные факты
 
-- 🔭 Сейчас изучаю: **Docker, Kubernetes, Performance testing**
-- 🌱 Постоянно совершенствуюсь в: **Java, Architecture patterns**
+- 🔭 Сейчас изучаю: **Docker, Performance testing**
+- 🌱 Постоянно совершенствуюсь в: **Java, Architecture patterns, Functional testing**
 
