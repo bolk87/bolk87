@@ -49,7 +49,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Екатерина_Болкунова-blue?style=flat&logo=linkedin)](www.linkedin.com/in/екатерина-болкунова-b124081b4)
 [![Telegram](https://img.shields.io/badge/Telegram-Написать_мне-blue?style=flat&logo=telegram)](https://t.me/@bolkunovaes)
-[![Email](https://img.shields.io/badge/Email-ekaterina@example.com-red?style=flat&logo=gmail)](mailto:bolkunovaes@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bolkunovaes@gmail.com-red?style=flat&logo=gmail)](mailto:bolkunovaes@gmail.com)
 
 ## 💡 Интересные факты
 
