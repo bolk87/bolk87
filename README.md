@@ -33,13 +33,13 @@
 
 ## 🎯 Мои ключевые проекты
 
-### 🚀 [Тестовый фреймворк](https://github.com/ваш-username/ваш-репозиторий](https://github.com/bolk87/SelenideTestProject)
+### 🚀 [Тестовый фреймворк](https://github.com/bolk87/SelenideTestProject)
 Автоматизированный фреймворк для UI тестирования
 - **Java** + **Selenide** + **JUnit5**
 - **Allure Report** для отчетности
 - **GitHub Actions** CI/CD
 
-### 🔧 [API Testing Framework](https://github.com/ваш-username/api-tests](https://github.com/bolk87/AssetrionsModule3)
+### 🔧 [API Testing Framework](https://github.com/bolk87/AssetrionsModule3)
 Фреймворк для автоматизации API тестирования
 - **Rest Assured** + **JUnit 5**
 - **JSON Schema** валидация
