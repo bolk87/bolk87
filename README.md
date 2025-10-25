@@ -53,6 +53,6 @@
 
 ## 💡 Интересные факты
 
-- 🔭 Сейчас изучаю: **Docker, Performance testing**
+- 🔭 Сейчас изучаю: **Docker, Performance testing, Mobile testiong**
 - 🌱 Постоянно совершенствуюсь в: **Java, Architecture patterns, Functional testing**
 
